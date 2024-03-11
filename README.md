@@ -49,8 +49,7 @@ The consistency observed in water level data within each state suggests minimal 
 If we were to hypothesize that tidal loading is responsible for the poorly resolved signals, we would expect consistent correlations between GPS and NOAA data within a state at similar times, irrespective of the surface displacement variation, with high correlation coefficients greater than ± 0.75. Higher correlation coefficients close to 1 or -1 indicate a non-tectonic origin, such as tidal loading, while coefficients close to 0 suggest a tectonic origin. 
 
 However, the intervals where correlation coefficients exceed the arbitrary threshold differ among pairs within states. Consequently, the observed signals in southern Washington, northern Oregon, and northern California, as identified by Nuyen and Schmidt (2021), cannot be attributed to oceanic loading, supporting the idea that these three transients are of tectonic origin. 
-## Conclusion
-Conclusion 
+## Conclusion 
 In conclusion, our study explored the connection between oceanic loading and surface deformation by analyzing GNSS and NOAA data. However, inconsistent correlation intervals within each state suggest a more nuanced relationship. Previous research on regional soil moisture and snowpack variation, coupled with findings on tidal loading from our study, reinforces the notion that transient signals are predominantly tectonic in nature.
 ## References
 Beroza, G. C., & Ide, S. (2011). Slow earthquakes and nonvolcanic tremor. Annual review of Earth and planetary sciences, 39, 271-296. https://doi.org/10.1146/annurev-earth-040809-152531  
